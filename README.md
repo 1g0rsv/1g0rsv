@@ -11,6 +11,8 @@
 
 ## English Level
 - **Upper-intermediate** (I am currently taking advanced courses).
+## Deutsch Level
+- **B1 certificate** 
 
 ## Profile
 For over 6 years, I have been a co-founder of the IT company PrimeCore. During this time, we have grown from 0 to 23 people and managed to implement many complex client projects and several in-house projects. We have gone through several crises, but we have always worked hard, and now we continue to work, develop, and support our employees in these difficult moments.
