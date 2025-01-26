@@ -1,49 +1,72 @@
-### Hi there 👋
+# 👋 Hi, I'm Ihor S.!
 
-# CV
-**S. Ihor**  
-36 Years
+Welcome to my GitHub! I'm an **IT professional**, combining over a decade of experience in **system administration**, **project management**, and **cybersecurity**. My passion lies in creating secure, scalable, and efficient systems while driving innovation in every project I undertake.
 
-## Education
-- **Specialist of Computer Technologies in Managing and Education**  
-  Ukrainian State Engineering Pedagogical Academy  
-  (September 2003 - June 2008)
+---
 
-## English Level
-- **Upper-intermediate** (I am currently taking advanced courses).
-## Deutsch Level
-- **B1 certificate** 
+## 🎯 About Me
 
-## Profile
-For over 6 years, I have been a co-founder of the IT company PrimeCore. During this time, we have grown from 0 to 23 people and managed to implement many complex client projects and several in-house projects. We have gone through several crises, but we have always worked hard, and now we continue to work, develop, and support our employees in these difficult moments.
+- 💻 **IT System Administrator** with a strong foundation in server and network infrastructure, ensuring reliability and security across environments.
+- 🛡️ **Cybersecurity Enthusiast**, skilled in penetration testing and proactive system defense.
+- 📈 **Project Leader**, experienced in agile methodologies (Scrum, Kanban), delivering impactful IT solutions and streamlining workflows.
 
-I have broad practical experience in creating, managing, and developing projects and can effectively prove myself as a Delivery Manager, BA, and Product / Project management positions.
+> ✨ Fun Fact: I successfully led the development of a diesel sales platform, reducing maintenance costs by **65%** and boosting online sales by **25%**.  
 
-### Experience
-- **Co-Founder of PrimeCore**  
-  (July 2016 - May 2022)  
-  - Management of all business functions (R&D, product, support, internal IT, finance, consultative sales, key account management).
-  - Development of business processes in the company from scratch.
-  - Managing shared and distributed teams (including introducing continuous delivery and continuous integration processes into teams).
-  - Leading all phases of the projects, from the original idea to the production environment.
-  - Gathering and documenting business requirements with subsequent assignment of tasks to developers.
-  - Collaborate with business, product management, engineering, and other teams to define and own projects and features.
-  - Strong understanding of SDLC and all processes behind it.
-  - Strong experience with Waterfall as well as with Agile methodologies (Scrum, Kanban, SoS, SAFe).
-  - Migrated a significant legacy project to a new architecture with event-driven design.
+---
 
-- **Senior Logistic Coordinator in Primegrope**  
-  (March 2011 - May 2016)  
-  - Search and development of relations with business clients.
-  - Development and management of the partner network of cargo carriers.
-  - Participation in tenders.
-  - Control of delivery terms and fulfillment of contract terms.
+## 🔍 Core Competencies
 
-## Domains
-The current domains are Blockchain, GameDev, MVP & Startups, E-commerce, Social Networking, and Research.
+- **IT Infrastructure**: Linux systems, Active Directory, DNS, DHCP, VPN, SSH, and server management.
+- **Cybersecurity**: Penetration testing tools (Burp Suite, Metasploit, sqlmap), vulnerability assessment, and hands-on training.
+- **DevOps & Cloud**: Docker, Kubernetes (basic), CI/CD pipelines, virtualization (KVM, QEMU).
+- **Agile Management**: Scrum Master and project manager expertise, delivering high-quality software solutions.
 
-## Hobbies
-- DevOps, researching the different Blockchain projects and protocols.
+---
 
-## Objective
-I am looking for new challenges and career opportunities.
+## 🛠 Technical Skills
+
+- **Programming**: Python (basic), SQL (basic)
+- **Tools**: GitHub, GitLab, Jira, Confluence, Jenkins, Wireshark, TestRail
+- **Networking**: DHCP, DNS, VPN, SSH, FTP
+- **DevOps**: Docker Compose, orchestration with Swarm and Kubernetes
+- **Security Tools**: Burp Suite, sqlmap, Metasploit, Chrome DevTools
+
+---
+
+## 🌟 Achievements & Projects
+
+- 🔧 **Diesel Sales Portal**: Architected and implemented an online portal, increasing revenue and operational efficiency.
+- 🔗 **Network Infrastructure**: Designed and deployed secure, scalable network solutions for industrial companies.
+- 📊 **Logistics Coordination**: Managed freight operations, built strong relationships with clients and partners, and ensured timely deliveries while optimizing routes and maintaining cost efficiency.
+---
+
+## 📚 Education & Certifications
+
+- 🎓 **Diplom-Spezialist** in Computer Technologies in Administration and Education  
+  Ukrainian Engineering Pedagogics Academy
+
+- 🛡️ **Google Cybersecurity Professional Certificate**  
+  [View Credential](https://www.credly.com/badges/ceb7d1aa-6e29-4314-b178-1860dccea9d0/public_url)
+
+- 🖥️ **Cybersecurity Hands-on Training Program**  
+  [View Credential](https://credsverse.com/credentials/844ce960-faf5-40ba-94d8-5ac48a1861a5)
+
+---
+
+## 🌍 Languages
+
+- 🇺🇦 **Native**: Ukrainian, Russian  
+- 🇬🇧 **Proficient**: English (C1)  
+- 🇩🇪 **Advanced**: German (B2)  
+
+---
+
+## 📬 Let's Connect!
+
+- 📧 Email: [si8888v@gmail.com](mailto:si8888v@gmail.com)  
+- 💻 GitHub: [1g0rsv](https://github.com/1g0rsv)  
+- 🌐 LinkedIn: 
+
+---
+
+> 🌟 _"I'm always exploring new technologies to improve system security and efficiency. Let's collaborate and build something amazing together!"_
