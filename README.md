@@ -56,8 +56,8 @@ Welcome to my GitHub! I'm an **IT professional**, combining over a decade of exp
 ## 🌍 Languages
 
 - 🇺🇦 **Native**: Ukrainian, Russian  
-- 🇬🇧 **Proficient**: English (C1)  
-- 🇩🇪 **Advanced**: German (B2)  
+- 🇬🇧 **Proficient**: English (C1) – Continuously improving my skills 
+- 🇩🇪 **Advanced**: German (B2) – Actively studying to reach a higher level 
 
 ---
 
